@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url(../images/erik-royalty-free-wallpaper.webp);
+  color:black;
+  font-family: "Comic Sans", sans-serif ;
+  font-weight: bold 
+}
+
+h1, h2 {
+font-family: "Helvetica", sans-serif;
+  color:black;
+  text-shadow: 3px 3px 3px darkblue;
+  font-style:oblique;
+}
+
+header{
+  color:black; 
+  font-family:"Comic Sans", sans-serif;
+}
+p{
+  color:black;
+}
